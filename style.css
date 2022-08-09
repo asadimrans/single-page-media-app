@@ -1,0 +1,65 @@
+body
+{
+    font-family: 'Poppins', sans-serif;
+}
+ul li 
+{
+    font-family: 'Nunito Sans', sans-serif;
+    font-size: 15px;
+    font-weight: 700;
+}
+
+p
+{
+    font-family: 'Nunito Sans', sans-serif;
+    font-size: 15px;
+    font-weight: 600;
+}
+.card-padding
+{
+    padding-top: 40px;
+    padding-bottom: 66px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.ps-3-1
+{
+padding-left: 1.1rem;
+}
+.p-40
+{
+    padding: 40px;
+}
+
+.card
+{
+    height: 336px;
+    width: 437.5px;
+}
+li::marker
+{
+    color: #D2AD81;
+}
+
+.border-radius
+{
+    border-radius: 8px;
+}
+
+.image-radius
+{
+    border-top-left-radius: 8px;
+    border-bottom-left-radius: 8px ;
+}
+
+.bttn-primary
+{
+    background-color: #1B264F; 
+    border-radius: 12px;
+    height: 60px;
+    width: 315px;
+}
+.image-width
+{
+    width: 183.5px;
+}
